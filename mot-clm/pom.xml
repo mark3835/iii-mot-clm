@@ -358,7 +358,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java-version>1.7</java-version>
-		<struts-version>2.3.16</struts-version>
+		<struts-version>2.5.30</struts-version>
 		<spring-version>4.0.2.RELEASE</spring-version>
 		<hibernate-version>4.3.1.Final</hibernate-version>
 	</properties>
